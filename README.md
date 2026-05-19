@@ -1,6 +1,6 @@
 # AstroDodge
 
-A expedition/survival game made with Godot.
+A (work in progress) expedition/survival game made with Godot.
 
 ## Gameplay
 
