@@ -28,7 +28,7 @@ Artist: [Himhoji](https://github.com/Himhoji)
 - Fast arcade gameplay
 - Score system
 - Increasing difficulty
-- Pixel art visuals
+- Accurate pixel art visuals
 
 ## Controls
 
@@ -42,8 +42,8 @@ Windows and Linux:
 -   "W" : Change Weather
 -   "A" : Add Currency (10 Satellite and 10.000 Data)
 -   "K" : Kill Player instantly
--   "L" : Remove Fuel
--   "B" : Make the Player stand still
+-   "L" : Empty Fuel
+-   "B" : Player stays a current position
 
 ## Installation
 
