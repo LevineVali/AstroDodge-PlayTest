@@ -9,6 +9,8 @@ Upgrade your rocket and unlock new Skins.
 
 ## Screenshots
 
+Artist: https://github.com/Himhoji
+
 ![Gameplay](Screenshots/Screenshot_1.png)
 
 ![Gameplay](Screenshots/Screenshot_2.png)
